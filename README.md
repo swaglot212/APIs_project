@@ -28,4 +28,4 @@
 
 ## Extra Credit
 
-    - Instead of using a “Submit” button, allow the filtering to occur on every keystroke (the filtering occurs while the user is typing).
+- Instead of using a “Submit” button, allow the filtering to occur on every keystroke (the filtering occurs while the user is typing).
